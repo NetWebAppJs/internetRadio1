@@ -142,14 +142,14 @@ color: white;
 	box-sizing: content-box;
 }
 
-#rad_block_logo {
+/*#rad_block_logo {
 	padding-top: 0px;
 	margin-top: 20px;
 	float:right;
 	/*margin-: 50px;*/
 }
 
-/*#rad_logo {
+#rad_logo {
 	color: rgb(247, 247, 247);
 	border: solid;
 	float: right;

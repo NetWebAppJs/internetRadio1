@@ -114,7 +114,7 @@ if (g_rad_player_width<=300){
     document.getElementById('rad_stationname').style.width = '100px';
     document.getElementById('rad_select').style.width = '80px';
     document.getElementById('rad_block_play').style.marginRight = '0px';
-    document.getElementById('rad_list').style.marginLeft = '-32px';
+    document.getElementById('rad_list').style.marginLeft = '10px';
     document.getElementById('rad_block_volume').style.marginRight = '0px';
     document.getElementById('rad_block_volume').style.marginLeft = '0px';
 }else{
